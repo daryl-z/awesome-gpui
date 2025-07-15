@@ -74,12 +74,12 @@ fn main() {
 - [GPUI Calculator](https://github.com/kriskw1999/gpui-calculator) - A calculator app built with GPUI
 - [GPUI Counter](https://github.com/derrickpersson/gpui-simple-counter) - A simple GPUI counter example
 - [GPUI Memory Game](https://github.com/justjavac/gpui-memory-game) - A memory matching game built with Rust and GPUI
-- [Muzak](https://github.com/143mailliw/muzak) - A modern music player written in Rust using GPUI, with support for multiple audio formats and cross-platform compatibility
+- [Hummingbird](https://github.com/143mailliw/hummingbird) - A modern music player written in Rust using GPUI, designed to be performant and lightweight with FLAC, MP3, OGG and WAV playback support
 
 ## Blog Posts
 
 - [Ownership and Data Flow in GPUI](https://zed.dev/blog/gpui-ownership) - In-depth description of how ownership works in GPUI using models, including how to emit and consume events
-- [Why the big rewrite?](https://zed.dev/blog/why-the-big-rewrite) - Blog post on the reasons for going to the tailwind-inspired API
+- [Why the big rewrite?](https://zed.dev/blog/why-th·e-big-rewrite) - Blog post on the reasons for going to the tailwind-inspired API
 - [Unofficial Documentation](https://github.com/Himasnhu-AT/GPUI-docs-unofficial) - An attempt at unofficial documentation for GPUI
 
 ## Videos
