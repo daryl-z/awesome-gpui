@@ -73,6 +73,7 @@ fn main() {
 - [GPUI Counter](https://github.com/derrickpersson/gpui-simple-counter) - 简单的GPUI计数器示例
 - [GPUI Memory Game](https://github.com/justjavac/gpui-memory-game) - 使用Rust和GPUI构建的记忆匹配游戏
 - [Hummingbird](https://github.com/143mailliw/hummingbird) - 使用Rust和GPUI构建的现代音乐播放器，设计轻量且高性能，支持FLAC、MP3、OGG和WAV播放
+- [PGUI](https://github.com/duanebester/pgui) - 使用GPUI构建的Postgres数据库查询和管理GUI应用
 
 ## 博客文章
 

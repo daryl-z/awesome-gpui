@@ -34,7 +34,6 @@ English | [中文](README.md)
 ## Component Libraries
 
 - [gpui-component](https://github.com/longbridge/gpui-component) - A growing library of UI components (Accordion, Button, DatePicker, Calendar, Modal, Table, etc.) for building desktop apps with GPUI
-- [gpui-kit](https://github.com/mishaszu/gpui-kit) - An upcoming toolkit of headless primitives and styled components designed for GPUI, inspired by Headless UI and Radix Primitives
 
 ## Tutorials
 
@@ -75,6 +74,7 @@ fn main() {
 - [GPUI Counter](https://github.com/derrickpersson/gpui-simple-counter) - A simple GPUI counter example
 - [GPUI Memory Game](https://github.com/justjavac/gpui-memory-game) - A memory matching game built with Rust and GPUI
 - [Hummingbird](https://github.com/143mailliw/hummingbird) - A modern music player written in Rust using GPUI, designed to be performant and lightweight with FLAC, MP3, OGG and WAV playback support
+- [PGUI](https://github.com/duanebester/pgui) - A GUI app to query and manage Postgres databases built with GPUI
 
 ## Blog Posts
 
@@ -99,4 +99,4 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, the compiler of this work has waived all copyright and related or neighboring rights to this work. 
+To the extent possible under law, the compiler of this work has waived all copyright and related or neighboring rights to this work.
